@@ -2,20 +2,20 @@
 I'm a Minecraft plugin developer from Australia.
 
 ## Current Projects
-# SpigotMC Resources:
+#### SpigotMC Resources:
 - PhantomCombat: a SpigotMC plugin focused on enhancing the combat experience. [spigot link](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [git link](https://github.com/lokka30/PhantomCombat)
 
-# Servers:
+#### Servers:
 - None at the moment! I'm working on a few and checking what would work best for me.
 
 ## Upcoming Projects
-# SpigotMC Resources:
+#### SpigotMC Resources:
 All of my Spigot projects have a focus on extensive configurations, look and performance.
 - PhantomLobby: the first plugin to look for when setting up a lobby.
 - PhantomCore: merges the necessities for running a server into one file.
 - PhantomModeration: make your moderator's jobs simple with a mod mode command.
 
-# Servers:
+#### Servers:
 I'm deciding on picking one of these three.
 - Custom Minigames Network (5% complete)
 - Survival Server (80% complete)
