@@ -7,19 +7,19 @@ My rule for plugins are 'I would never publish something I wouldn't use' (except
 
 ## Current Projects
 #### SpigotMC Resources:
-- PhantomCombat: enhancing the combat experience. [-spigot link-](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [-git link-](https://github.com/lokka30/PhantomCombat)
+- PhantomCombat: enhancing the combat experience. [spigot link.](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [git link.](https://github.com/lokka30/PhantomCombat)
 
 #### Servers:
 - None are live yet. In development :)
 
 ## Upcoming Projects
 #### SpigotMC Resources:
-- PhantomLobby (releasing very soon!): the first plugin to look for when setting up a lobby.
+- PhantomLobby: an abundance of lobby management features. [git link.](https://github.com/lokka30/PhantomLobby)
 - PhantomCore: merges the necessities for running a server into one file.
-- PhantomModeration: make your moderator's jobs simple with a mod mode command.
+- PhantomModeration: moderator jobs are simple with one command.
 
 #### Servers:
-- Unsure if I should chose Skyblock or Survival.
+- Skyblock or Survival? I'm not sure what to chos.e
 
 ## Nifty Links
 - [my spigot resources](https://www.spigotmc.org/members/lokka30.828699/#resources)
