@@ -1,15 +1,13 @@
 # Hi there!
 I'm a Minecraft plugin developer from Australia.
 
-All of my Spigot projects have a focus on extensive configurations, look and performance.
+All of my Spigot projects have a focus on extensive configurations, functionality, aesthetic and performance.
 
 My rule for plugins are 'I would never publish something I wouldn't use' (except requests of course).
 
 ## Current Projects
 #### SpigotMC Resources:
-- PhantomCombat: a SpigotMC plugin focused on enhancing the combat experience.
-
-[-spigot link-](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [-git link-](https://github.com/lokka30/PhantomCombat)
+- PhantomCombat: enhancing the combat experience. [-spigot link-](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [-git link-](https://github.com/lokka30/PhantomCombat)
 
 #### Servers:
 - None are live yet. In development :)
