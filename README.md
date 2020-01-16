@@ -8,18 +8,19 @@ My rule for plugins are 'I would never publish something I wouldn't use' (except
 ## Current Projects
 #### SpigotMC Resources:
 - PhantomCombat: enhancing the combat experience. [spigot link.](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [git link.](https://github.com/lokka30/PhantomCombat)
-
+- LevelledMobs: mobs get better, faster and stronger. [spigot link.](https://www.spigotmc.org/resources/%E2%98%85levelledmobs%E2%98%85-a-simple-drag-n-drop-solution-for-mob-attributes.74304/) [git link.](https://github.com/lokka30/LevelledMobs)
 #### Servers:
 - None are live yet. In development :)
 
 ## Upcoming Projects
 #### SpigotMC Resources:
 - PhantomLobby: an abundance of lobby management features. [git link.](https://github.com/lokka30/PhantomLobby)
-- PhantomCore: merges the necessities for running a server into one file.
+- PhantomChat: better chat management.
 - PhantomModeration: moderator jobs are simple with one command.
+- PhantomCore: all the necessities for your server.
 
 #### Servers:
-- Skyblock or Survival? I'm not sure what to chos.e
+- Currently working on a network.
 
 ## Nifty Links
 - [my spigot resources](https://www.spigotmc.org/members/lokka30.828699/#resources)
