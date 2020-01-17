@@ -17,6 +17,7 @@ My rule for plugins are 'I would never publish something I wouldn't use' (except
 - PhantomLobby: an abundance of lobby management features. [git link.](https://github.com/lokka30/PhantomLobby)
 - PhantomChat: better chat management.
 - PhantomModeration: moderator jobs are simple with one command.
+- PhantomGuard: protect against exploits and crashing.
 - PhantomCore: all the necessities for your server.
 
 #### Servers:
