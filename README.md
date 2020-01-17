@@ -1,7 +1,7 @@
 # Hi there!
 I'm a Minecraft plugin developer from Australia.
 
-All of my Spigot projects have a focus on extensive configurations, functionality, aesthetic and performance.
+All of my Spigot projects have a focus on extensive configurations, functionality, aesthetics and performance.
 
 My rule for plugins are 'I would never publish something I wouldn't use' (except requests of course).
 
@@ -9,6 +9,7 @@ My rule for plugins are 'I would never publish something I wouldn't use' (except
 #### SpigotMC Resources:
 - PhantomCombat: enhancing the combat experience. [spigot link.](https://www.spigotmc.org/resources/%E2%9A%94-phantomcombat-%E2%9A%94-enhance-your-combat-experience.74060/) [git link.](https://github.com/lokka30/PhantomCombat)
 - LevelledMobs: mobs get better, faster and stronger. [spigot link.](https://www.spigotmc.org/resources/%E2%98%85levelledmobs%E2%98%85-a-simple-drag-n-drop-solution-for-mob-attributes.74304/) [git link.](https://github.com/lokka30/LevelledMobs)
+
 #### Servers:
 - None are live yet. In development :)
 
