@@ -3,7 +3,7 @@ I'm a Minecraft plugin developer from Australia.
 
 All of my Spigot projects have a focus on extensive configurations, functionality, aesthetics and performance.
 
-My rule for plugins are 'I would never publish something I wouldn't use' (except requests of course).
+My rule for plugins are 'I would never publish something I wouldn't use (except requests of course).
 
 ## Current Projects
 #### SpigotMC Resources:
